@@ -11,33 +11,22 @@ View your app in AI Studio: https://ai.studio/apps/drive/1W4PHL5frws9thXThyaLESo
 
 Key Features Visible:
 Conversation Interface
-
 Clean chat UI with message bubbles (user queries on right, AI responses on left)
-
 Shows conversation history with timestamps
 
 AI Capabilities
-
 Auto-reply functionality for common support queries
-
 Intelligent response generation based on customer context
-
 Multi-turn conversation handling (maintains context)
 
 User Management
-
 Customer profile display (photo, name, status)
-
 Activity tracking and interaction history
-
 Support agent assignment options
-
 Support Tools
 
 Quick reply suggestions (bottom buttons)
-
 Knowledge base integration for accurate answers
-
 Escalation options to human agents
 
 Purpose:
