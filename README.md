@@ -2,7 +2,8 @@
 
 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1W4PHL5frws9thXThyaLESoX7AZrDcCdI
+Link to view the app https://week3-khaki.vercel.app/
+
 <img width="1135" height="734" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/a50294f9-a737-4a0d-a7e3-f9f8436d68a5" />
 
 
