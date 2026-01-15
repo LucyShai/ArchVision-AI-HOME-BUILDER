@@ -23,7 +23,7 @@ User Management
 Customer profile display (photo, name, status)
 Activity tracking and interaction history
 Support agent assignment options
-Support Tools
+Support Tools.
 
 Quick reply suggestions (bottom buttons)
 Knowledge base integration for accurate answers
